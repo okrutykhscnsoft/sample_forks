@@ -73,9 +73,10 @@ namespace App1
             }
 
             //Test changes.
-            int i = 0;
-            i++;
+            int j = 0;
+            j++;
 
+            j--;
         }
 
         /// <summary>
