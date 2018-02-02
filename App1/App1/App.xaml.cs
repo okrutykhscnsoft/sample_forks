@@ -74,6 +74,8 @@ namespace App1
 
             //Test changes.
             int i = 0;
+            // test comment.
+
             i++;
 
             // changes from fork
