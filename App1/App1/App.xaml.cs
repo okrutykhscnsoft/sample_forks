@@ -71,6 +71,11 @@ namespace App1
                 // Ensure the current window is active
                 Window.Current.Activate();
             }
+
+            //Test changes.
+            int i = 0;
+            i++;
+
         }
 
         /// <summary>
