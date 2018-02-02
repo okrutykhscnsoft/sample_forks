@@ -73,14 +73,12 @@ namespace App1
             }
 
             //Test changes.
-            int i = 0;
-            // test comment.
+            int j = 0;
 
-            i++;
+			// Test comments
+            j++;
 
-            // changes from fork
-            i--;
-
+            j--;
         }
 
         /// <summary>
